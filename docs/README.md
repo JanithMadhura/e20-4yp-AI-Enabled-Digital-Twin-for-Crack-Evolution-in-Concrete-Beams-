@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
-title:
+repository-name: e20-4yp-AI-Enabled-Digital-Twin-for-Crack-Evolution-in-Concrete-Beams
+title: AI Enabled Digital Twin for Crack Evolution in Concrete Beams
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -13,14 +13,14 @@ title:
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- e20016, Amarakeerthi H.K.K.G, [e20016@eng.pdn.ac.lk](mailto:name@email.com)
+- e20231, Madhura T.W.K.J., [e20231@eng.pdn.ac.lk](mailto:name@email.com)
+- e20404, Ukwaththa U.A.N.T., [e20404@eng.pdn.ac.lk](mailto:name@email.com)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Dr. Upul Jayasinghe, [upuljm@eng.pdn.ac.lk](mailto:name@eng.pdn.ac.lk)
+- Dr. J.A.S.C.Jayasinghe, [supunj@eng.pdn.ac.lk](mailto:name@eng.pdn.ac.lk)
 
 #### Table of content
 
